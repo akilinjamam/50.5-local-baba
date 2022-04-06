@@ -1,0 +1,1 @@
+// we can set any type of data in local storage as string and number but we can not set any object in the local storage directly. to set object in local storage use JSON.stringify and to get data from local storage use JSON.parse 
